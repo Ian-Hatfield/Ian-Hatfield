@@ -9,7 +9,7 @@
             
   + LinkedIn - www.linkedin.com/in/ian-c-hatfield-4502
   
-  + Cellphone - Please reach out to me through email first, fufill requests on case by case basis.
+  + Cellphone - Please reach out to me through email first, number is given by request on case by case basis.
 
 <!---
 Ian-Hatfield/Ian-Hatfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
