@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Software Development and Cybersecurity.
 - 🎮 My hobbies include: Video games, fitness, camping, reading, and travelling. 
 - 🌱 I’m currently learning: Full-Stack development on CodeCademy and CompTIA certfications on Udemy.
-- 💞️ I’m looking to collaborate on: Any open source projects (OOP preferred) or any Hackathons needing an extra team member.
+- 💞️ I’m looking to collaborate on: Any open source projects or any Hackathons needing an extra team member.
 - 📫 How to reach me: 
   + Email - hatfieldian@sau.edu (School Email)
             ianch5402@gmail.com (Personal Email)
